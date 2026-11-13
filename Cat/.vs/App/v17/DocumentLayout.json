@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\IOC\\Cat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\lifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\lifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\catextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\catextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\injectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\injectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neil.zhu\\AppData\\Local\\Temp\\MetadataAsSource\\fcd1e6a12d844244b6d75ee210b82df7\\DecompilationMetadataAsSourceFileProvider\\1cc8f4fbdf1e4c9491c213d0d100d79d\\IEquatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\maptoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\maptoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neil.zhu\\AppData\\Local\\Temp\\MetadataAsSource\\bf51c94478fa4fc4ab36d92ba0c74ccd\\DecompilationMetadataAsSourceFileProvider\\eb1837abc5594d828645d29042e862d7\\Type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neil.zhu\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\2e206b30c7ec41a0a369faf31a2fddb6\\Assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neil.zhu\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\0c3eb4ae480c49eabaee854e51542509\\IServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neil.zhu\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\c5574da02fec44c194a33bb6410356cc\\IEquatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\15190\\AppData\\Local\\Temp\\MetadataAsSource\\9a5ab4f21e6f431ca2b79e7e50d46039\\DecompilationMetadataAsSourceFileProvider\\a884fa42671f4c4e9dff1a0b12f33f14\\Enumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|e:\\study\\ioc\\cat\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{54ED4135-BAFC-4124-A193-C3E73365D194}|App\\App.csproj|solutionrelative:app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatExtensions.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\CatExtensions.cs",
+              "RelativeDocumentMoniker": "App\\CatExtensions.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\CatExtensions.cs",
+              "RelativeToolTip": "App\\CatExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:22.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\Services.cs",
+              "RelativeDocumentMoniker": "App\\Services.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\Services.cs",
+              "RelativeToolTip": "App\\Services.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Key.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\Key.cs",
+              "RelativeDocumentMoniker": "App\\Key.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\Key.cs",
+              "RelativeToolTip": "App\\Key.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistry.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\ServiceRegistry.cs",
+              "RelativeDocumentMoniker": "App\\ServiceRegistry.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\ServiceRegistry.cs",
+              "RelativeToolTip": "App\\ServiceRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lifetime.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\Lifetime.cs",
+              "RelativeDocumentMoniker": "App\\Lifetime.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\Lifetime.cs",
+              "RelativeToolTip": "App\\Lifetime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InjectionAttribute.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\InjectionAttribute.cs",
+              "RelativeDocumentMoniker": "App\\InjectionAttribute.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\InjectionAttribute.cs",
+              "RelativeToolTip": "App\\InjectionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapToAttribute.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\MapToAttribute.cs",
+              "RelativeDocumentMoniker": "App\\MapToAttribute.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\MapToAttribute.cs",
+              "RelativeToolTip": "App\\MapToAttribute.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\Cat.cs",
+              "RelativeDocumentMoniker": "App\\Cat.cs",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\Cat.cs",
+              "RelativeToolTip": "App\\Cat.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAxwGcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:46:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEquatable.cs",
+              "DocumentMoniker": "C:\\Users\\NEIL.ZHU\\AppData\\Local\\Temp\\MetadataAsSource\\fcd1e6a12d844244b6d75ee210b82df7\\DecompilationMetadataAsSourceFileProvider\\1cc8f4fbdf1e4c9491c213d0d100d79d\\IEquatable.cs",
+              "ToolTip": "System.IEquatable",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.IEquatable",
+              "WhenOpened": "2022-04-18T07:06:42.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\NEIL.ZHU\\AppData\\Local\\Temp\\MetadataAsSource\\bf51c94478fa4fc4ab36d92ba0c74ccd\\DecompilationMetadataAsSourceFileProvider\\eb1837abc5594d828645d29042e862d7\\Type.cs",
+              "ToolTip": "System.Type",
+              "ViewState": "AQIAALUGAAAAAAAAAAAxwEcHAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.Type",
+              "WhenOpened": "2022-04-14T05:45:22.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assembly.cs",
+              "DocumentMoniker": "C:\\Users\\NEIL.ZHU\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\2e206b30c7ec41a0a369faf31a2fddb6\\Assembly.cs",
+              "ToolTip": "System.Reflection.Assembly",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.Reflection.Assembly",
+              "WhenOpened": "2022-04-13T01:55:34.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\NEIL.ZHU\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\0c3eb4ae480c49eabaee854e51542509\\IServiceProvider.cs",
+              "ToolTip": "System.IServiceProvider",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.IServiceProvider",
+              "WhenOpened": "2022-04-13T02:09:47.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEquatable.cs",
+              "DocumentMoniker": "C:\\Users\\NEIL.ZHU\\AppData\\Local\\Temp\\MetadataAsSource\\fda630bbd1ba40958417a1b7997f6686\\DecompilationMetadataAsSourceFileProvider\\c5574da02fec44c194a33bb6410356cc\\IEquatable.cs",
+              "ToolTip": "System.IEquatable",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.IEquatable",
+              "WhenOpened": "2022-04-13T02:06:16.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enumerable.cs",
+              "DocumentMoniker": "C:\\Users\\15190\\AppData\\Local\\Temp\\MetadataAsSource\\9a5ab4f21e6f431ca2b79e7e50d46039\\DecompilationMetadataAsSourceFileProvider\\a884fa42671f4c4e9dff1a0b12f33f14\\Enumerable.cs",
+              "ToolTip": "System.Linq.Enumerable",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.Linq.Enumerable",
+              "WhenOpened": "2022-04-12T13:27:13.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.csproj",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T08:46:23.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App",
+              "DocumentMoniker": "E:\\Study\\IOC\\Cat\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "E:\\Study\\IOC\\Cat\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T08:46:23.228Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
